@@ -1,0 +1,73 @@
+	<ul>
+  		<li class="home"><a href="/depts/physics/sps/">Home</a></li>
+  		<li class="contact"><a href="/depts/physics/sps/contact/">Contact Us</a></li>
+	</ul>
+
+<div class="menudivider">Information</div>
+	
+	<ul>
+		<li class="calendar_page"><a href="/depts/physics/sps/calendar/">Calendar</a></li>
+		<li class="officers"><a href="/depts/physics/sps/officers/">Officers</a></li>
+	</ul>
+	
+<div class="menudivider">Resources</div>
+	
+	<ul>
+		<li class="links"><a href="/depts/physics/sps/links/">Links</a></li>
+		<li class="docs"><a href="/depts/physics/sps/docs/">Documents</a></li>
+	</ul>
+	
+<div class="menudivider">Photo Gallery</div>
+
+<ul>
+  <li>Spring 2010
+    <ul>
+		<li class="gallery01"><a href="/depts/physics/sps/gallery01/index.htm">Gallery  1001</a></li>
+    </ul>
+  </li>
+</ul>
+
+<!--
+<div class="menudivider">Styles *</div>
+	
+	<ul>
+		<li class="baseline"><a href="/org/college/sps/variations/typography/">Typography</a></li>
+		<li class="color"><a href="/org/college/sps/variations/color/">"Boxed Content" Colors</a></li>
+		<li class="tables"><a href="/org/college/sps/variations/tables/">Table Formatting</a></li>
+		<li class="forms"><a href="/org/college/sps/variations/forms/">Forms</a></li>
+	</ul>
+
+<div class="menudivider">Layout Variations *</div>
+
+	<ul>
+      	<li class="variations"><a href="/org/college/sps/variations/">Layout Variations Overview</a></li>
+		<li class="grid"><a href="/org/college/sps/variations/grid/">Page Grid</a></li>		
+		<li class="default"><a href="/org/college/sps/variations/default/">Default Layout</a></li>
+		<li class="onecolnav"><a href="/org/college/sps/variations/1colnav/">One Column With Navigation</a></li>
+		<li class="equalcolumns2"><a href="/org/college/sps/variations/2colnav/">Two Columns With Navigation</a></li>
+		<li class="tcolumnnav"><a href="/org/college/sps/variations/tcolnav/">"T" Setup With Navigation</a></li>	
+	</ul>
+	
+<div class="menudivider">Nested Navigation *</div>
+
+<ul>
+  <li>Nested Navigation Sample
+    <ul>
+      <li>Sub Menu
+		  <ul>
+			  <li><a href="#">Sub-Sub Menu</a></li>
+			  <li><a href="#">Sub-Sub Menu</a></li>
+			  <li><a href="#">Sub-Sub Menu</a></li>
+			  
+			  <li>Sub-Sub Menu
+				  <ul>
+					  <li><a href="#">Sub-Sub-Sub Menu</a></li>
+					  <li><a href="#">Sub-Sub-Sub Menu</a></li>
+					  <li><a href="#">Sub-Sub-Sub Menu</a></li>
+				  </ul>
+		  	  </li>
+		  </ul>
+	  </li>
+    </ul>
+  </li>
+</ul>-->

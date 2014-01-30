@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/********************************************************************************
+ *	Filename: ut-print.css														*
+ *	Purpose: Customize look and feel											*
+ *	Created by: CSULB Webteam													*
+ *	Modified by: Jorge L. Hurtado, Doug Cox, Frederick Camba, Pritesh Shah 		*
+ *	Created: 07-28-2005															*
+ *	Last Modified: 03-29-2007													*
+ ********************************************************************************/
+
+/********************************************************************************
+ *				CONTAINER														*
+ ********************************************************************************/
+body
+{
+	color: #000;
+	padding:0;
+	margin:0;
+	/*width:100%;*/
+	font-family:Arial, Helvetica, sans-serif;
+}
+#container
+{
+	background-color: #fff;
+	padding:0;
+	margin:0;
+	clear: both;
+}
+#contain_content
+{
+	width: 100%;
+	color: #000;
+	margin:0;
+	padding:0;
+	clear: both;
+}
+/********************************************************************************
+ *				ELEMENTS														*
+ ********************************************************************************/
+ img {
+ 	border: none;
+ }
+/********************************************************************************
+ *				HEADER															*
+ ********************************************************************************/
+#contain_header
+{
+	margin:0;
+	padding:0;
+}
+#contain_header_setwidth
+{
+	margin:0;
+	padding:0;
+}
+#siteid_content
+{
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+#siteid_content img
+{
+	margin: 0px;
+	padding: 0px;
+}
+#contain_search
+{
+	display:none;
+}
+
+/********************************************************************************
+ *				UNIVERSITY AUDIENCES											*
+ ********************************************************************************/
+#contain_audiencenav li
+{
+	display:none;
+}
+/********************************************************************************
+ *				PRIMARY NAV														*
+ ********************************************************************************/
+#contain_divisionnav li
+{
+	display:none;
+}
+
+/********************************************************************************
+ *				ER																*
+ ********************************************************************************/
+#ER_container_off
+{
+	display: none;
+}
+#ER_container_on
+{
+	display: none;
+}
+/********************************************************************************
+ *				BANNER															*
+ ********************************************************************************/
+#contain_banner
+{
+	clear: both;
+	display: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+	height: auto;
+}
+#audiencenav_design 
+{
+}
+#banner_content
+{
+	background-image: url(/misc/depot/assets/UT/banner_bk.gif);
+	margin: 0px;
+	padding: 0px;
+}
+#banner_content img
+{
+	width:100%;
+	margin: 0;
+	padding: 0;
+}
+/********************************************************************************
+ *			SECONDARY BANNER													*
+ ********************************************************************************/
+#contain_banner_secondary
+{
+	display:none;
+}
+/********************************************************************************
+ *			BREADCRUMBS / TOOLS													*
+ ********************************************************************************/
+#contain_toolset
+{
+	display:none;
+}
+/********************************************************************************
+ *				COLUMN 1														*
+ ********************************************************************************/
+#contain_column1
+{
+	display:none;
+}
+/********************************************************************************
+ *			COLUMN 2															*
+ ********************************************************************************/
+
+#contain_column2
+{
+padding:0;
+margin:0;
+width:100%;
+clear: both;
+}
+
+/********************************************************************************
+ *			COLUMN 3															*
+ ********************************************************************************/
+#contain_column3
+{
+padding:0;
+margin:0;
+width:100%;
+clear: both;
+}
+
+
+/********************************************************************************
+ *				FOOTER															*
+ ********************************************************************************/
+#contain_footer
+{
+	background-color: inherit;
+	border-top: 1px solid #222;
+	margin: auto;
+	padding: 0;
+	width: 750px;
+	font-size:.9em;
+	clear:both;
+}
+
+#contain_footer h2 a
+{
+display: none;
+}
+#contain_address
+{
+	border-left: 10px solid #ffc627;
+	color: #ccc;
+	float: left;
+	margin: 10px 0 10px 0;
+	padding: 0 0 0 10px;
+	text-align: left;
+	width: 450px;
+}
+#contain_utilities
+{
+	display:none;
+}
+/********************************************************************************
+ *				ALPHA INDEX      						   						*
+ ********************************************************************************/
+.siteindex_index
+{
+	display:none;
+}
+.siteindex_row
+{
+	display:none;
+}
+ 
+ .hidden
+{
+	display:none;
+}
+.clear_float
+{
+	display: none;
+	clear:both;
+	height:1px;
+	overflow:hidden;
+}
+/********************************************************************************
+ *				Inside CSULB Specific					   						*
+ ********************************************************************************/
+ 
+ div#article-body {
+ 	width: 90%;
+	padding: 0;
+	margin: 0;
+	clear: both;
+ }
+ div#leftcolumn, div#rightcolumn {
+ 	width: 100%;
+	padding: 0;
+	margin: 0;
+	clear: both;
+ }

@@ -1,0 +1,7 @@
+
+<link href="/org/college/sps/css/ut-print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/org/college/sps/css/ut-medium.css" rel="stylesheet" type="text/css"/> <!-- 4/20/07 added by jhurtado to start with medium text size -->
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/org/college/sps/css/ut-small.css" title="small_text"/>
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/org/college/sps/css/ut-medium.css" title="medium_text"/>
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/org/college/sps/css/ut-large.css" title="large_text"/>
+<link href="/org/college/sps/css/ut.css" media="screen" rel="stylesheet" type="text/css" />

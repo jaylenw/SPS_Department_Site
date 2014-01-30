@@ -1,0 +1,900 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@import url("/depts/physics/sps/css/ut_styles.css");
+/********************************************************************************
+ *	Filename: ut.css															*
+ *	Purpose: Establishes layout structure and core look and feel				*
+ *	Created by: University Public Affairs & Publications						*
+ *	Modified by: Jorge L. Hurtado, Doug Cox, Frederick Camba, Pritesh Shah 		*
+ *	Created: 07-28-2005															*
+ *	Last Modified: 03-15-2010													*
+ *	For more information and usage policy visit: http://www.csulb.edu/style/	*
+ ********************************************************************************/
+ 
+ /********************************************************************************
+ *				table														*
+ ********************************************************************************/
+.myTable{
+	width:100%;
+	text-align:left;
+}
+.myTable th:first-child{
+	width:85%;
+}
+.myTable td:nth-child(2){
+	text-align:center;
+}
+.myTable tr td img
+{
+	padding-right:8px;
+}
+.myTable tr th{
+	background-color:#999999;
+	background-image:none;
+	font-size:19px;
+	font-weight:bold;
+}
+tr.alt td{
+	background-color:#CCC;
+}
+
+/*th.mainH
+{
+	width:85%;
+	font-size:24px;
+	font-weight:bold;
+}
+th.main
+{
+	width:85%;
+}*/
+
+
+/********************************************************************************
+ *				CONTAINER														*
+ ********************************************************************************/
+html { background-color: #000; }
+body
+{
+	background-color: #fff;
+	font-family:Arial, Helvetica, sans-serif;
+	/*background-color:#000;*/
+	padding:0;
+	margin:0;
+	/*background-color:#222;*/
+	min-width:900px;
+}
+#container
+{
+	color:inherit; /*added by jh*/
+	background: #fff url(/misc/depot/assets/UT/bk_lightgray_gradient.gif) repeat-x;
+	/* background-color: #fff; */
+	padding: 0 0 15px 0;
+	text-align: center;
+	width: 100%;
+	border-bottom:15px solid #eee;
+}
+#contain_content
+{
+	background: #fff url(/misc/depot/assets/UT/bk_lightgray_gradient.gif) repeat-x;
+	/* background-color: #fff; */
+	color:#333;
+	margin: auto;
+	padding: 0 0 0 0;
+	/*overflow: auto;*/
+	/*width:756px;*/
+	width:900px;
+}
+
+/********************************************************************************
+ *				HEADER															*
+ ********************************************************************************/
+#contain_header
+{
+	background: #333 url("/misc/depot/assets/UT/hdr_blk_bk.gif") repeat-x;
+	text-align: center;
+}
+#contain_header_setwidth
+{
+	margin:auto;
+	/*width:750px;*/
+	width:900px;
+}
+#siteid_content
+{
+	width: 287px;
+	height:50px;
+	float:left;
+	margin:0;
+	padding:0;
+}
+#siteid_content a
+{
+color:#ffc600;
+text-decoration:none;
+font-weight:bold;
+text-transform:uppercase;
+font-family:times;
+}
+@media screen {
+	#siteid_content h1 a
+	{
+	width:287px;
+	display:block;
+	text-indent:-5000px;
+	text-decoration:none;
+	line-height:50px;
+	}
+	
+	#siteid_content h1
+	{
+	background: transparent url("/misc/depot/assets/UT/hdr_blk_id.gif") top left no-repeat;
+	border: none;
+	margin:0;
+	padding:0;
+	}
+}
+#siteid_content img
+{
+	margin: 0px;
+	padding: 0px;
+}
+#contain_search
+{
+	font-size: .85em;
+	width: 500px;
+	float:right;
+}
+#contain_search #searchtools_links
+{
+	margin: 12px 0 0 0;
+	padding: 0 0 0 0;
+	width: 500px;
+}
+#contain_search #searchtools_links form
+{
+	display: inline;
+}
+#searchtools_links a:hover
+{
+	text-decoration: none;
+}
+#content_searchtools li 
+{
+	display:inline;
+}
+input.sitesearchbutton
+{
+	vertical-align:-3px; 	
+	margin: 0 0 -3px 0;
+	padding: 0 0 0 5px;
+	width: 45px !important;
+}
+#contain_search form
+{
+	margin: 0;
+	padding: 0;
+}
+#content_searchtools
+{
+	color: #CCC;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+#content_searchtools a
+{
+	color:#CCC;
+	text-decoration: none;
+}
+#content_searchtools a:hover
+{
+	color: #FFF;
+}
+#content_searchtools .v_separator
+{
+	background: transparent url("/misc/depot/assets/UT/v_separator.gif") no-repeat top center;
+	height: 12px;
+	padding: 0 8px 0px 6px;
+}
+#searchtools_links li
+{
+	float: right;
+}
+.searchtools_text
+{
+	padding-top: 4px;
+}
+/********************************************************************************
+ *				UNIVERSITY AUDIENCES											*
+ ********************************************************************************/
+#contain_audiencenav
+{
+	border-top: 1px solid #333;	
+	border-bottom: 1px solid #222;
+    display: block;
+	clear:both;
+}
+#audiencenav_content
+{
+	background-color: #222;	
+    font-weight: bold;
+	font-size:.95em;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#audience_links
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0 5px 0;
+}
+#audience_links li
+{
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+#audience_links li a
+{
+	color: #eee;
+	margin: 5px 0px 5px 0px;
+	padding: 5px 6px 5px 6px;
+	text-decoration: none;
+	background-color:inherit; /*added by jh*/
+}
+#audience_links li a:hover
+{
+	background-color: inherit;
+	color: #ffc600;
+	margin: 6px 0px 6px 0px;
+	padding: 6px 6px 6px 6px;
+}
+/********************************************************************************
+ *				PRIMARY NAV														*
+ ********************************************************************************/
+#contain_divisionnav
+{
+    border-bottom: 1px solid #111;
+	border-top: 1px solid #333;
+	background-color: #222;
+    display: none;
+	width:100%;
+	text-align:center;
+}
+#division_links
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0 5px 0;
+}
+#division_links li
+{
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+#division_links li a
+{
+	color: #eee;
+	font-weight:bold;
+	margin: 5px 0px 5px 0px;
+	padding: 5px 6px 5px 6px;
+	text-decoration: none;
+
+}
+#division_links li a:hover
+{
+	background-color: inherit;
+	color: #ffc600;
+	margin: 6px 0px 6px 0px;
+	padding: 6px 6px 6px 6px;
+}
+
+/********************************************************************************
+ *				float image	left												*
+ ********************************************************************************/
+ .clear-float
+ {
+	 clear:both;
+	 height:0px;
+	 overflow:hidden;
+ }
+ .float-img
+ {
+	 padding:8px;
+	 float:left;
+ }
+
+/********************************************************************************
+ *				ER																*
+ ********************************************************************************/
+
+#ER_container
+{
+	background-color: #efefef;
+	background-image: url(/misc/depot/assets/UT/ER_banner_bk.gif);
+	background-repeat: repeat-x;
+	width: 100%;
+}
+
+
+#ER_banner_content
+{
+	margin: auto;
+	padding: 0px;
+	width:900px;
+}
+
+#ER_banner_content p
+{
+	margin: 0 0 0 0;
+	padding: 0 0 5px 0;
+}
+
+
+#ER_banner_content .ERmessage
+{
+	color: #000;
+	float: left;
+	font-size: .9em;
+	font-weight: bold;
+	font-weight: normal;
+	padding: 20px 0;
+	/* width: 480px; */
+	width: 880px;
+}
+#ER_banner_content .ERmessage h2
+{
+
+	background-color: #880000;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	float: left;
+	margin-right: 10px;
+	/* margin-top: 4px; */
+	padding:5px;
+	font-size: 11px;
+}
+#ER_banner_content .ERmessage a
+{
+	color: #fff;
+
+}
+#ER_banner_content .ERmessage a:hover
+{
+	color: #fff;
+
+}
+/********************************************************************************
+ *				BANNER															*
+ ********************************************************************************/
+#contain_banner
+{
+	background-color:#fff;
+	/*background-image: url(/misc/depot/assets/UT/spacer.gif);*/ /*Transparent background*/
+	background-image: url(/misc/depot/assets/UT/banner_bk.gif); /*Dark Gradient background*/
+	clear: both;
+	display: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
+/*#audiencenav_design 
+{
+}
+#banner_content
+{
+	background-color:#fff;	
+	background-image: url(/misc/depot/assets/UT/banner_bk.gif);
+	margin: 0px;
+	padding: 0px;
+}
+#banner_content img
+{
+	margin: 0;
+	padding: 0;
+}*/
+/********************************************************************************
+ *				BANNER SECONDARY 												*
+ ********************************************************************************/
+#contain_banner_secondary
+{
+	background-color: #fff;
+	/*background-image: url(/misc/depot/assets/UT/spacer.gif);*/ /*Transparent background*/
+	/*background-image: url(/misc/depot/assets/UT/banner_bk.gif);*/
+	border-top: 0px solid #ddd;
+	clear: both;
+	display: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
+/*
+#banner_secondary_content
+{
+	background-image: url(/misc/depot/assets/UT/banner_gold_bk.gif);
+	background-image: url(/misc/depot/assets/UT/banner_bk.gif);
+	margin: 0px;
+	padding: 0px;
+}
+#banner_secondary_content img
+{
+	margin: 0;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}*/
+/********************************************************************************
+ *			BREADCRUMBS / TOOLS													*
+ ********************************************************************************/
+#contain_toolset, #contain_setwidth
+{
+	background-color: #eee;
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	width: 100%;
+}
+#contain_toolbar
+{
+	margin: auto;
+	text-align: center;
+	/*width:745px;*/
+	width:900px;
+}
+
+#contain_tools
+{
+	float:right;	
+}
+#contain_breadcrumbs{
+	float:left;
+	/*height:20px;*/
+	height:auto;
+	text-align:left;	
+}
+#breadcrumbs_content
+{
+	margin: 0;
+	padding: 3px 0 2px 0;
+	font-size:.9em;
+	color:#333;
+}
+#breadcrumbs_content a
+{
+	text-decoration: none;
+	color:#444;
+}
+#breadcrumbs_content a:hover
+{
+	text-decoration: underline;
+}
+#tools_content
+{
+	display: block;
+}
+#tools_content
+{
+	margin: 0;
+	padding: 2px 0 0 0;
+}
+#tools_content img
+{
+	border:0;
+	text-decoration:none;
+	vertical-align:middle;
+}
+#tools_content a
+{
+}
+.bc_link
+{
+	color: #444;
+}
+.bc_pagetitle
+{
+	color: #444;
+	font-weight: bold;
+}
+.bc_delimiter
+{
+	color: #000;
+	font-weight: bold;
+}
+
+/********************************************************************************
+ *			COLUMN 1 / SECONDARY NAV														*
+ ********************************************************************************/
+#contain_column1
+{
+	float: left;
+	margin:15px 20px 0 0;
+	padding:0 0 0 0;
+	text-align: left;
+	font-size: .85em;
+	/*width:165px;*/
+	width:180px;
+}
+#contain_column1 ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: auto;
+	padding:0;
+	margin-bottom:0;
+}		
+
+/*#contain_column1 li
+{
+	border-bottom: 1px dotted #999;
+	margin: 0;
+}*/
+
+#contain_column1 li
+{
+	border-top: 1px dotted #ddd;
+	padding:0;
+	margin:-5px 0 -3px 0;
+}
+#contain_column1 li a
+{
+	border-left: 0px solid #fff;
+	border-right: 0px solid #fff;
+	display: block;
+	margin: 0px;
+	padding: 4px 6px 6px 6px;
+	text-decoration: none;
+	color:#666;
+}
+html>body li a 
+{
+	width: auto;
+}
+#contain_column1 li a:hover
+{
+	background-color: #ddd;
+	color: #000;
+}
+.buttontitle
+{
+	border-top: 4px solid #ccc;
+	display: block;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+/*
+.menudivider
+{
+	color:#eee;
+	padding:2px 7px 3px 7px;
+	margin:10px 0 10px 0;
+	background-color:#444;
+	clear:both;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:0px;
+	font-size:1em;
+}
+*/
+.menudivider
+{
+	color:#ddd;
+	padding:5px 7px 5px 7px;
+	/* margin:10px 0 10px 0; */
+	margin:0;
+	background-color:#000;
+	clear:both;
+	font-weight:normal;
+	text-transform:uppercase;
+	letter-spacing:0px;
+	font-size:.8em;
+}
+.menutitle
+{
+	color:#eee;
+	padding:3px 7px 4px 7px;
+	margin:10px 0 10px 0;
+	background-color:#444;
+	clear:both;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:0px;
+	font-size:1em;
+	border-left:0px solid #fff;
+	display:none;
+}
+
+/*
+ * PureDOMExplorer Demo styles 
+ * written by Chris Heilmann
+ * Modified by Pritesh Shah (pshah at csulb dot edu): added some classes to suit our purpose
+ * More at http://onlinetools.org/tools/puredom/
+*/
+	
+	#contain_column1 ul a:link,
+	#contain_column1 ul a:visited,
+	#contain_column1 ul a:hover,
+	#contain_column1 ul a:active{
+		text-decoration:none;
+		/*color:#000;*/
+	}
+	#contain_column1 ul,#contain_column1 ul li{
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+	#contain_column1 ul{
+		font-family: Arial, Helvetica, sans-serif;
+		text-align:left;
+		margin:0;
+		/*font-size:.8em;*/
+		/*margin:.5em auto;*/
+		
+	}
+	#contain_column1 ul ul{
+		margin:0 0 0 1em;
+		padding:0;
+	}
+	#contain_column1 ul li{
+		line-height:1.3em;
+		padding:0;
+		margin:0;
+		height: auto !important;
+		height: 17px;
+		/*Commented by Pritesh*/
+		/*padding-left:15px;*/
+	}
+/* dynamically added to LIs with nested ULs */
+	#contain_column1 ul li.parent{
+		padding-left:0;
+	}
+	#contain_column1 ul li.parent img{
+		border:none;
+		padding-right:5px;
+		vertical-align: top;
+		float:left;
+	}
+/* dynamically added to LIs with nested ULs and STRONG elements in them */
+	#contain_column1 ul li.current li{
+		/*padding-bottom: 10px;*/
+		padding-left:0;
+	}
+/* The class to hide nested ULs */
+       .hide{
+               position:absolute;
+               top:-1250px;
+               left:-4000px;
+       }
+
+/* The class to show nested ULs */
+       .show{
+               position:static;
+               display: list-item;
+               top:-1215px;
+               left:1em;
+       }
+	   
+/* These two classes added by Pritesh to indent the sub LIs*/
+	   #contain_column1 ul.hide li{
+               padding-left: 15px;			   
+       }
+	   
+	   ul.show li{
+               padding-left: 15px;
+	   
+       }
+	   
+#contain_column1 ul li {
+	margin: 0px 0px 0px 0px !important;
+	margin: -4px auto;
+}
+
+#contain_column1 ul ul ul  {
+	padding-bottom: 0px !important;
+	padding-bottom: 10px;
+}
+/* Added headings inside navigation for document outline: Date: 03/03/08 */
+#contain_column1 ul li h3, #contain_column1 ul li h4, #contain_column1 ul li h5, #contain_column1 ul li h6{
+	display:inline;
+	font-size: 100%;
+	font-weight:normal;
+}
+#contain_column1 ul li h6{
+	border-bottom-width:0px;	
+}
+
+#contain_column1 ul {
+margin-bottom: 1em;
+}
+
+/********************************************************************************
+ *			COLUMN 2 / COLUMN 3															*
+ ********************************************************************************/
+
+#contain_column2
+{
+	float:left;
+	padding:0 0 0 0;
+	margin:15px 0 0 0;
+	text-align: left;
+	/*width:370px;*/
+	width:420px;
+}
+#contain_column3
+{
+	float: left;
+	padding: 0 0 0 0;
+	margin:15px 0 0 20px;
+	text-align: left;
+	/*width:175px;*/
+	width:260px;
+}
+#contain_column2 ul, #contain_column3 ul {
+	list-style:none;
+	padding-left:1.2em;
+	margin-bottom:1em;
+	list-style-image:url(/misc/depot/assets/UT/rightarrow.gif);
+}
+#contain_column2 li, #contain_column3 li {
+	line-height: 1.5em;
+}
+#contain_column2 ol, #contain_column3 ol 
+{
+	padding-left:1.5em;
+	margin-left:1.5em;
+	line-height: 1.5em;
+	margin-bottom:1em;
+}
+#contain_column2, #contain_column3
+{
+	line-height: 1.3em;
+	font-size:.95em;
+}
+#contain_column2 a, #contain_column3 a
+{
+	/*color:#333;*/
+	color:#000;
+}
+#contain_column2 a:hover, #contain_column3 a:hover
+{
+	/*background-color: #333;*/
+	/*color: #666;*/
+}   
+
+/********************************************************************************
+ *				FOOTER															*
+ ********************************************************************************/
+#footer
+{
+	background-color: #000;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#contain_footer
+{
+	background-color: inherit;
+	border-top: 1px solid #222;
+	margin: auto;
+	padding: 0;
+	font-size:.9em;
+	/*width:750px;*/
+	width:900px;
+}
+#contain_address
+{
+	border-left: 10px solid #ffc627;
+	color: #ccc;
+	float: left;
+	margin: 10px 0 10px 0;
+	padding: 0 0 0 10px;
+	text-align: left;
+	width:450px;
+}
+#contain_utilities
+{
+	float:left;
+	color:#ccc;
+	float:right;
+	margin:10px 0 10px 0;
+	padding:0 0 10px 0;
+	text-align:right;
+	width:200px;
+}
+#contain_utilities a:hover
+{
+	color: #fff;
+	text-decoration: none;
+}
+#contain_utilities ul
+{
+	margin: 0;
+	padding: 0;
+}
+#contain_utilities li
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#contain_utilities li a
+{
+	color: #ccc;
+	text-decoration: none;
+}
+.siteindex_index
+{
+	padding: 10px 0 5px 0;
+	text-align: center;
+	/*width:750px;*/
+	width:900px;
+}
+.siteindex_index a
+{
+	color: #ddd;
+	font-weight: bold;
+	text-decoration: none;
+}
+.siteindex_index a:hover
+{
+	color: #fff;
+}
+.siteindex_row
+{
+	background-color: inherit;
+	color: #ddd;
+	padding: 0 0 0 0;
+	text-align: center;
+	/*width:750px;*/
+	width:900px;
+}
+.siteindex_row a
+{
+	color: #ddd;
+	padding:0 3px 0 3px;
+	text-decoration: none;
+}
+.siteindex_row a:hover
+{
+	background-color: #444;
+	color: #fff;
+	text-decoration: none;
+}
+.siteindex_row ul
+{
+	list-style: none;
+	padding:5px 0 5px 0;
+	margin:5px 0 5px 0;
+	border-top:1px dotted #666;
+	border-bottom:1px dotted #666;
+}
+.siteindex_row li, #siteindex_row2 li
+{
+	display:inline;
+}
+#contain_footer h2
+{
+padding:10px 0 5px 0;
+font-size:1em;
+}
+
+#contain_footer h2 a
+{
+color:#ddd;
+text-decoration:none;
+}
+
+#contain_footer h2 a:hover
+{
+color:#fff;
+}

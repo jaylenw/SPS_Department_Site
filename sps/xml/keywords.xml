@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+
+Filename: keywords.xml
+Purpose: List of keywords for the search box
+Created by: Pritesh Shah
+Created: 04-13-2007
+Last Modified: 04-13-2007
+
+-->
+
+<suggestions>
+	<alphabet id = "a">
+		<keyword>Academic Advising</keyword>
+		<keyword>Academic Affairs, Division of</keyword>
+		<keyword>Academic Calendars</keyword>
+		<keyword>Academic Computing Services</keyword>
+		<keyword>Academic Departments: Full Listing</keyword>
+		<keyword>Academic Personnel</keyword>
+		<keyword>Academic Records</keyword>
+		<keyword>Academic Senate</keyword>
+		<keyword>Academic Technology &amp; Facilities Planning</keyword>
+		<keyword>Academics</keyword>
+		<keyword>Academic Computing Services (ACS)</keyword>
+		<keyword>Accountancy</keyword>
+		<keyword>Accreditation (WASC)</keyword>
+		<keyword>Accessibility Web Project</keyword>
+		<keyword>Administration &amp; Finance, Division of</keyword>
+		<keyword>Administrative Computing</keyword>
+		<keyword>Administrative Guidelines</keyword>
+		<keyword>Administrative Procedures &amp; Forms</keyword>
+		<keyword>Admissions</keyword>
+		<keyword>Admission Requirements</keyword>
+		<keyword>Admissions &amp; Information (Transfer Students)</keyword>
+		<keyword>Admissions &amp; Registration  Deadlines</keyword>
+		<keyword>Advancement</keyword>
+		<keyword>Aerospace Engineering</keyword>
+		<keyword>Aerospace Studies (Air Force ROTC)</keyword>
+		<keyword>Alumni Association</keyword>
+		<keyword>American Indian Studies</keyword>
+		<keyword>American Studies</keyword>
+		<keyword>Americans With Disabilities Act / Section 508: ADA Web Project</keyword>
+		<keyword>Annual Open House (Kaleidoscope)</keyword>
+		<keyword>Annual Statistics &amp; Public Safety</keyword>
+		<keyword>Anthropology</keyword>
+		<keyword>Application Deadlines, Status Updates</keyword>
+		<keyword>Apply Online (CSU Mentor)</keyword>
+		<keyword>Army ROTC (Military Science)</keyword>
+		<keyword>Art</keyword>
+		<keyword>Art Museum (UAM)</keyword>
+		<keyword>Arts, College of the</keyword>
+		<keyword>Asian &amp; Asian-American Studies</keyword>
+		<keyword>Associated Students, Inc.</keyword>
+		<keyword>Astronomy &amp; Physics</keyword>
+		<keyword>Athletic Program</keyword>
+		<keyword>Athletic Staff Phone and E-Mail Directory</keyword>
+		<keyword>Auditing, Internal</keyword>
+		<keyword>Audiovisual Services</keyword>
+	</alphabet>
+	
+	<alphabet id = "b">
+		<keyword>Beach Review (alumni magazine)</keyword>
+	  	<keyword>Bachelor's Degree Information</keyword>
+		<keyword>BeachBoard (online classes)</keyword>
+		<keyword>BeachBoard Support</keyword>
+		<keyword>BeachBoard, Turnitin &amp; Software Training (Academic Computing Services)</keyword>
+		<keyword>BeachLINK (Job search &amp; posting tool)</keyword>
+		<keyword>Beachpride.com</keyword>
+		<keyword>Beach TV</keyword>
+		<keyword>Benefits, Payroll</keyword>
+		<keyword>Biological Sciences</keyword>
+		<keyword>Black Studies</keyword>
+		<keyword>Bookstore</keyword>
+		<keyword>Budget &amp; HRIS</keyword>
+		<keyword>Budget &amp; Human Resources &amp; Forms</keyword>
+		<keyword>Budget (Resource Planning Process/RPP)</keyword>
+		<keyword>Budget Message, 2001-2002</keyword>
+		<keyword>Budget Message, 2002-2003</keyword>
+		<keyword>Budget Message, 2003-2004</keyword>
+		<keyword>Bursar's Office</keyword>
+		<keyword>Business Administration, College of</keyword>
+	</alphabet>
+	
+	<alphabet id = "c">
+		  <keyword>Calendar of Events (Academic)</keyword>
+		  <keyword>Calendar of Events (Campus)</keyword>
+		  <keyword>California Child Welfare Resource Library (CCWRL)</keyword>
+		  <keyword>California Faculty Assn. (CFA)</keyword>
+		  <keyword>California State Employees Assn. (CSEA)</keyword>
+		  <keyword>California State University (CSU) System News</keyword>
+		  <keyword>CalPERS</keyword>
+		  <keyword>Campus Clubs &amp; Organizations</keyword>
+		  <keyword>Campus Computing Resources Policy</keyword>
+		  <keyword>NEW: Campus Conversations: Access to Excellence </keyword>
+		  <keyword>Campus E-Mail (WebMail System)</keyword>
+		  <keyword>Campus Events Office</keyword>
+		  <keyword>Campus Faculty, Student &amp; Staff Directory</keyword>
+		  <keyword>Campus Internet Accounts</keyword>
+		  <keyword>Campus Maps (including parking)</keyword>
+		  <keyword>Campus Media</keyword>
+		  <keyword>Campus Open House (Kaleidoscope)</keyword>
+		  <keyword>Campus Police</keyword>
+		  <keyword>Campus Print Shop</keyword>
+		  <keyword>Campus Services &amp; Resources</keyword>
+		  <keyword>Campus Tours</keyword>
+		  <keyword>CAPS (Counseling and Psychological Services)</keyword>
+		  <keyword>Career Development Center</keyword>
+		  <keyword>Career Services, Educational (College of Education)</keyword>
+		  <keyword>Carpenter Performing Arts Center</keyword>
+		  <keyword>Catalog</keyword>
+		  <keyword>CCWRL (Child Welfare Resource Library)</keyword>
+		  <keyword>Center for Community Engagement</keyword>
+		  <keyword>Center for Faculty Development (FCPD)</keyword>
+		  <keyword>Center for International Education (CIE)</keyword>
+		  <keyword>Center for International Trade &amp; Transportation</keyword>
+		  <keyword>Center for Student Athletic Services (CSAS)</keyword>
+		  <keyword>Center for Usability in Design &amp; Assessment (CUDA)</keyword>
+		  <keyword>Check Your Grades</keyword>
+		  <keyword>Cheerleading</keyword>
+		  <keyword>Chemical Engineering</keyword>
+		  <keyword>Chemistry &amp; Biochemistry</keyword>
+		  <keyword>Chicano &amp; Latino Studies</keyword>
+		  <keyword>Child Development Center</keyword>
+		  <keyword>City of Long Beach</keyword>
+		  <keyword>Civil Engineering | Construction Engineering Management (CECEM)</keyword>
+		  <keyword>Class Schedule</keyword> <keyword>Club Sports &amp; Recreation </keyword>
+		  <keyword>CMS / Collaborative Management System</keyword>
+		  <keyword>CMS Training</keyword> <keyword>CMS Help</keyword>
+		  <keyword>COAST Library Catalog</keyword>
+		  <keyword>College of Business Administration</keyword>
+		  <keyword>College of Education</keyword>
+		  <keyword>College of Engineering</keyword>
+		  <keyword>College of Health &amp; Human Services</keyword>
+		  <keyword>College of Liberal Arts</keyword>
+		  <keyword>College of Natural Sciences &amp; Mathematics</keyword>
+		  <keyword>College of the Arts</keyword>
+		  <keyword>College Preparatory Requirements</keyword>
+		  <keyword>Colleges &amp; Departments (listing)</keyword>
+		  <keyword>Commencement &amp; Webcast</keyword>
+		  <keyword>Communication Studies</keyword>
+		  <keyword>Communicative Disorders</keyword>
+		  <keyword>Community Service Learning Center</keyword>
+		  <keyword>Comparative Literature &amp; Classics</keyword>
+		  <keyword>Complaints: Discrimination/Sexual Harassment</keyword>
+		  <keyword>Computer Engineering &amp; Computer Science</keyword>
+		  <keyword>Computer Lab: ACS</keyword>
+		  <keyword>Computing Resources Policy, CSULB Campus</keyword>
+		  <keyword>Connecting to the Network and Internet</keyword>
+		  <keyword>Construction Engineering Management | Civil Engineering (CECEM)</keyword>
+		  <keyword>Contact the University Webmaster</keyword>
+		  <keyword>Controller's Office</keyword>
+		  <keyword>Cost of Attending CSULB</keyword>
+		  <keyword>Counseling &amp; Psychological Services</keyword>
+		  <keyword>Courses, Extension</keyword>
+		  <keyword>Credit Unions</keyword>
+		  <keyword>Criminal Justice, Department of</keyword>
+		  <keyword>Criminal Justice, Center for</keyword>
+		  <keyword>CSEA (California State Employees Assn.)</keyword>
+		  <keyword>CS Link (PeopleSoft, GL Online Reports, on-line queries &amp; more)</keyword>
+		  <keyword>CSU Chancellor&rsquo;s Office</keyword>
+		  <keyword>CSU System</keyword>
+		  <keyword>CSULB Alumni Association</keyword>
+		  <keyword>CSULB Athletics</keyword>
+		  <keyword>CSULB Athletics Contacts</keyword>
+		  <keyword>CSULB Demographics</keyword>
+		  <keyword>CSULB Foundation</keyword>
+		  <keyword>CSULB Media Experts Guide (Faculty Contacts)</keyword>
+		  <keyword>CSULB Office of Public Affairs</keyword>
+		  <keyword>CSULB Press Releases</keyword>
+		  <keyword>CSULB Technology Help Desk (campus-wide)</keyword>
+		  <keyword>CSULB University Channel Television (Beach TV)</keyword>
+		  <keyword>CUDA (Center for Usability in Design &amp; Assessment)</keyword>
+		  <keyword>Curriculum Handbook (index of PDF documents)</keyword>
+	</alphabet>
+	
+	<alphabet id = "d">
+		  <keyword>Daily 49er</keyword>
+		  <keyword>Dance</keyword>
+		  <keyword>Dance Team</keyword>
+		  <keyword>Deadlines: Admissions</keyword>
+		  <keyword>Deadlines: Bachelor&acute;s Degree Request to Graduate</keyword>
+		  <keyword>Deadlines: Filing For Reinstatement</keyword>
+		  <keyword>Deadlines: Housing</keyword>
+		  <keyword>Deadlines: Master&acute;s Degree Request to Graduate</keyword>
+		  <keyword>Dean of Students</keyword>
+		  <keyword>Demographics, CSULB</keyword>
+		  <keyword>Departmental Copier Program</keyword>
+		  <keyword>Departments, Full Listing</keyword>
+		  <keyword>Design</keyword>
+		  <keyword>Development, University Relations &amp;</keyword>
+		  <keyword>Dining On Campus</keyword>
+		  <keyword>Dining Services &amp; University Bookstore</keyword>
+		  <keyword>Directions to CSULB</keyword>
+		  <keyword>Directory of CSULB Faculty, Students &amp; Staff</keyword>
+		  <keyword>Disabled Student Services</keyword>
+		  <keyword>Discrimination Policies &amp; Complaints</keyword>
+		  <keyword>Distance Education/Online Courses (UCES)</keyword>
+		  <keyword>Diversity: Campus Climate at CSULB</keyword>
+		  <keyword>Division of Academic Affairs</keyword>
+		  <keyword>Division of Administration &amp; Finance</keyword>
+		  <keyword>Division of Student Services</keyword>
+		  <keyword>Division of University Relations &amp; Development</keyword>
+		  <keyword>Donors &amp; Friends</keyword>
+	</alphabet>
+	
+	<alphabet id = "e">
+	      <keyword>Economics</keyword>
+		  <keyword>Education, College of</keyword>
+		  <keyword>Educational Equity Services (EES)</keyword>
+		  <keyword>Educational Opportunity Program (EOP)</keyword>
+		  <keyword>Educational Psychology, Administration &amp; Counseling (EDPAC)</keyword>
+		  <keyword>Electrical Engineering</keyword>
+		  <keyword>E-Mail Accounts</keyword>
+		  <keyword>E-mail: Searchable Directory of Campus Names</keyword>
+		  <keyword>E-mail: WebMail System</keyword>
+		  <keyword>Emergency Preparedness Information</keyword>
+		  <keyword>Employee Benefits</keyword>
+		  <keyword>Employee Services &amp; Information</keyword>
+		  <keyword>Employment Opportunities (Administrative, Staff, etc.)</keyword>
+		  <keyword>Employment Opportunities (Faculty)</keyword>
+		  <keyword>Engineering Technology</keyword>
+		  <keyword>Engineering, College of</keyword>
+		  <keyword>English</keyword>
+		  <keyword>Enrollment Services</keyword>
+		  <keyword>Environmental Science &amp; Policy</keyword>
+		  <keyword>Environmental Studies (USC)</keyword>
+		  <keyword>Equity &amp; Diversity Office</keyword>
+		  <keyword>Evaluation &amp; Testing Services</keyword>
+		  <keyword>Examination Schedules: Fall</keyword>
+		  <keyword>Examination Schedules: Spring</keyword>
+		  <keyword>Extension Courses (UCES)</keyword>
+	</alphabet>
+	
+	<alphabet id = "f">
+	 	  <keyword>49er, Daily (Campus Newspaper)</keyword>
+		  <keyword>49er Shops: Campus Bookstore</keyword>
+		  <keyword>49er Shops, Inc.</keyword>
+		  <keyword>Facilities Management</keyword>
+		  <keyword>Faculty Center for Professional Development (FCPD)</keyword>
+		  <keyword>Faculty Early Retirement Program (FERP)</keyword>
+		  <keyword>Faculty Employment Opportunities</keyword>
+		  <keyword>Faculty Handbook (PDF document)</keyword>
+		  <keyword>Faculty Job Postings</keyword>
+		  <keyword>Faculty &amp; Staff Assistance Program (FSAP)</keyword>
+		  <keyword>Faculty Supper Club</keyword>
+		  <keyword>Fall  Examinations Schedule</keyword>
+		  <keyword>Family &amp; Consumer Sciences</keyword>
+		  <keyword>Fees &amp; Tuition</keyword>
+		  <keyword>Film &amp; Electronic Arts</keyword>
+		  <keyword>Finance, Real Estate &amp; Law</keyword>
+		  <keyword>Financial Aid (CSULB)</keyword>
+		  <keyword>Financial Aid (FAFSA)</keyword>
+		  <keyword>Financial Aid / Scholarships (CSULB)</keyword>
+		  <keyword>Financial Management Information Systems</keyword>
+		  <keyword>Financial Reporting</keyword>
+		  <keyword>Financing: Scholarships, Grants, Loans, Student Employment</keyword>
+		  <keyword>Finding Your Way Around Campus</keyword>
+		  <keyword>Forms &amp; Publications: Admissions, Financial Aid, Registration, Records &amp; Graduation</keyword>
+		  <keyword>Forms: Index to Key Forms for Faculty &amp; Staff</keyword>
+		  <keyword>Foundation, CSULB</keyword>
+		  <keyword>Fraternities &amp; Sororities (Overview)</keyword>
+		  <keyword>Freshman Information</keyword>
+	</alphabet>
+	
+	<alphabet id = "g">
+	 	  <keyword>Geography</keyword>
+		  <keyword>Geological Sciences</keyword>
+		  <keyword>Gerontology</keyword>
+		  <keyword>Getting Around the Long Beach Area</keyword>
+		  <keyword>Giving to CSULB</keyword>
+		  <keyword>Global Campus</keyword>
+		  <keyword> Graduate Admissions</keyword>
+		  <keyword>Graduate Degrees, Programs &amp; Certificates</keyword>
+		  <keyword>Graduate Studies</keyword>
+		  <keyword>Graduation: Commencement Ceremonies</keyword>
+		  <keyword>Graduation: Requirements</keyword>
+		  <keyword>Grants, Loans, Student Employment, Scholarships</keyword>
+		  <keyword>Greek Organizations (Sororities/Fraternities)</keyword>
+		  <keyword>Grunion Gazette</keyword>
+	</alphabet>
+	
+	<alphabet id = "h">
+		  <keyword>Handbook, Curriculum</keyword>
+		  <keyword>Health &amp; Human Services, College of</keyword>
+		  <keyword>Health Benefits</keyword>
+		  <keyword>Health Care Administration</keyword>
+		  <keyword>Health Resource Center</keyword>
+		  <keyword>Health Science</keyword>
+		  <keyword>Health Services</keyword>
+		  <keyword>HELP</keyword>
+		  <keyword>History</keyword>
+		  <keyword>Housing Deadlines</keyword>
+		  <keyword>Housing &amp; Residential Life</keyword>
+		  <keyword> How Much Does CSULB Cost?</keyword>
+		  <keyword>Human Development </keyword>
+		  <keyword>Human Resources (Budget &amp; Human Resource Management / BHRM)</keyword>
+	</alphabet>
+	
+	<alphabet id = "i">
+		  <keyword>Impacted Majors</keyword>
+		  <keyword>Information (Adult Re-Entry Students)</keyword>
+		  <keyword>Information (Graduate Students)</keyword>
+		  <keyword>Information (Prospective Students)</keyword>
+		  <keyword>Information (Transfer Students)</keyword>
+		  <keyword>Information Systems</keyword>
+		  <keyword>Information Technology Services (ITS)</keyword>
+		  <keyword>In-Person Tours of the CSULB Campus</keyword>
+		  <keyword>Inside CSULB (campus newsletter)</keyword>
+		  <keyword>Institutional Research &amp; Assessment</keyword>
+		  <keyword>Instructional Technology Support Services</keyword>
+		  <keyword> Interdisciplinary Studies</keyword>
+		  <keyword>Internal Auditing </keyword>
+		  <keyword>International Admissions</keyword>
+		  <keyword>International Business</keyword>
+		  <keyword>International Education (IEC)</keyword>
+		  <keyword>International Education, Center for </keyword>
+		  <keyword>International Student Academics</keyword>
+		  <keyword>International Student Services</keyword>
+		  <keyword>International Studies</keyword>
+		  <keyword>Internet Accounts</keyword>
+		  <keyword>Internet Resources</keyword>
+		  <keyword>Intramural Sports &amp; Wellness</keyword>
+		  <keyword>Isabel Patterson Child Development Center</keyword>
+		  <keyword>Italian Studies, George L. Graziadio Center for</keyword>
+		  <keyword>IVR /  VRR (Registration)</keyword>
+
+	</alphabet>
+	
+	<alphabet id = "j">
+		  <keyword>Japanese Garden</keyword>
+		  <keyword>Jazz Institute</keyword>
+		  <keyword>JECR (Journal of Electronic Commerce Research)</keyword>
+		  <keyword>Job Openings (Administrative, Staff, etc.)</keyword>
+		  <keyword>Job Opportunities (Faculty)</keyword>
+		  <keyword> Journalism</keyword>
+		  <keyword>Judicial Affairs</keyword>
+		  <keyword>Just For Freshmen</keyword>
+	</alphabet>
+	
+	<alphabet id = "k">
+		  <keyword>Kaleidoscope (CSULB&rsquo;s annual open house)</keyword>
+		  <keyword>Kinesiology</keyword>
+		  <keyword>K-Beach</keyword>
+		  <keyword>KKJZ 88.1FM</keyword>
+	</alphabet>
+	
+	<alphabet id = "l">
+		  <keyword>Labs: Academic Computing Services</keyword>
+		  <keyword>Labs: College of Business Administration</keyword>
+		  <keyword>Labs: College of Natural Sciences &amp; Mathematics</keyword>
+		  <keyword>Labs: College of the Arts Language Lab</keyword>
+		  <keyword>Labs: CSULB Library</keyword>
+		  <keyword>Latin American Studies</keyword>
+		  <keyword>Learning Alliance</keyword>
+		  <keyword>Learning Assistance Center</keyword>
+		  <keyword>Lecturer Resources</keyword>
+		  <keyword>Legal Studies</keyword>
+		  <keyword>Lesbian/Gay/Bisexual/Transgender Resource Center</keyword>
+		  <keyword>Liberal Arts, College of</keyword>
+		  <keyword>Liberal Studies</keyword>
+		  <keyword>Library, University</keyword>
+		  <keyword>Library Media Teacher Credential Program</keyword>
+		  <keyword>Linguistics</keyword>
+		  <keyword>Loans, Scholarships, Grants, Student Employment</keyword>
+		  <keyword>Long Beach Press Telegram Newspaper</keyword>
+		  <keyword>Long Beach Public Library</keyword>
+		  <keyword>Long Beach State 49ers</keyword>
+		  <keyword>Long Beach Unified School District</keyword>
+		  <keyword>Long Beach, City of</keyword>
+	</alphabet>
+	
+	<alphabet id = "m">
+		  <keyword>Mail Services</keyword>
+		  <keyword>Management &amp; Human Resources Management</keyword>
+		  <keyword>Maps</keyword>
+		  <keyword>Marketing</keyword>
+		  <keyword>Mathematics &amp; Statistics</keyword>
+		  <keyword>Materials Management</keyword>
+		  <keyword>Mechanical Engineering</keyword>
+		  <keyword>Media Contacts</keyword>
+		  <keyword>Medieval &amp; Renaissance Studies</keyword>
+		  <keyword>Military Science (Army ROTC)</keyword>
+		  <keyword>Multicultural Center</keyword>
+		  <keyword>Music</keyword>
+		  <keyword>MyCSULB</keyword>
+		  <keyword>MyCSULB Support</keyword>
+	</alphabet>
+	
+	<alphabet id = "n">
+		  <keyword>Natural Sciences &amp; Mathematics, College of</keyword>
+		  <keyword>NCAA Division I Certification Program</keyword>
+		  <keyword>Network Services (ITS)</keyword>
+		  <keyword>News Media Contacts @ CSULB</keyword>
+		  <keyword>News/Press Releases</keyword>
+		  <keyword>Newspapers, Campus: The Daily 49er</keyword>
+		  <keyword>Newspapers, Campus: The Union</keyword>
+		  <keyword>Nursing</keyword>
+	</alphabet>
+	
+	<alphabet id = "o">
+	 	  <keyword>Occupational Studies</keyword>
+		  <keyword>Odyssey</keyword>
+		  <keyword>Off-Campus Housing</keyword>
+		  <keyword>Office of Equity &amp; Diversity</keyword>
+		  <keyword>Office of the University Provost</keyword>
+		  <keyword>Office of University Research</keyword>
+		  <keyword>Ombuds, Office of University</keyword>
+		  <keyword>On-campus Housing</keyword>
+		  <keyword> Online Applications (CSU Mentor)</keyword>
+		  <keyword>Online Courses/Distance Education</keyword>
+		  <keyword>Online Donations</keyword>
+		  <keyword>Online Instruction: BeachBoard</keyword>
+		  <keyword>Open House</keyword>
+		  <keyword>Oral History Archive (VOAHA)</keyword>
+		  <keyword>Oral History Program</keyword>
+		  <keyword>Orientation (SOAR)</keyword>
+		  <keyword>Orientation for Transfer Students</keyword>
+		  <keyword>Osher Lifelong Learning Institute (Senior University)</keyword>
+	</alphabet>
+	
+	<alphabet id = "p">
+	 	  <keyword>Parking &amp; Transportation Services</keyword>
+		  <keyword>Payroll Benefits </keyword>
+		  <keyword>Personal Web Sites</keyword>
+		  <keyword>Personnel Services</keyword>
+		  <keyword>Philosophy</keyword>
+		  <keyword>Physical Therapy</keyword>
+		  <keyword>Physics &amp; Astronomy</keyword>
+		  <keyword>Placement Tests</keyword>
+		  <keyword>Places to Eat</keyword>
+		  <keyword>Planned Giving / Donor Opportunities</keyword>
+		  <keyword>Police, Campus</keyword>
+		  <keyword>Political Science</keyword>
+		  <keyword>Postbaccalaureate Admissions</keyword>
+		  <keyword>Post-Retirement Employment</keyword>
+		  <keyword>President Robert C. Maxson</keyword>
+		  <keyword>President&acute;s Budget Message, 2001-2002</keyword>
+		  <keyword>President&acute;s Budget Message, 2002-2003</keyword>
+		  <keyword>President&acute;s Budget Update, 2003-2004</keyword>
+		  <keyword>President&acute;s Scholars Program</keyword>
+		  <keyword>President's Commission on the Status of Women (PCSW)</keyword>
+		  <keyword>Press Releases / News</keyword>
+		  <keyword>Print Shop (CSULB)</keyword>
+		  <keyword>Procedures &amp; Forms</keyword>
+		  <keyword>Procurement</keyword>
+		  <keyword>Professional &amp; Technical Writing Program</keyword>
+		  <keyword>Property Development</keyword>
+		  <keyword>Psychology</keyword>
+		  <keyword>Public Affairs &amp; Publications</keyword>
+		  <keyword>Public Policy &amp; Administration, Graduate Center For</keyword>
+		  <keyword>Public Relations</keyword>
+		  <keyword>Public Safety &amp; Annual Statistics</keyword>
+		  <keyword>Purchasing</keyword>
+	</alphabet>
+	
+	<alphabet id = "q">
+		  <keyword>Quality Improvement</keyword>
+		  <keyword>Quick Facts About CSULB</keyword>
+	</alphabet>
+	
+	<alphabet id = "r">
+		  <keyword>Radiation Safety</keyword>
+		  <keyword>Re-Admission</keyword>
+		  <keyword>Recreation &amp; Leisure Studies</keyword>
+		  <keyword>Recreation, Club Sports &amp; </keyword>
+		  <keyword>Recycling</keyword>
+		  <keyword>Registration</keyword>
+		  <keyword>Religious Studies</keyword>
+		  <keyword>Request Information (Adult Re-Entry Students)</keyword>
+		  <keyword>Request Information (Graduate Students)</keyword>
+		  <keyword>Request Information (International Students)</keyword>
+		  <keyword>Request Information (Prospective Students)</keyword>
+		  <keyword>Request Information (Transfer Students)</keyword>
+		  <keyword>Research &amp; External Support</keyword>
+		  <keyword>Research Park</keyword>
+		  <keyword>Research, Institutional</keyword>
+		  <keyword>Research, University</keyword>
+		  <keyword>Resource Planning Process (RPP): 2001-2002 Report</keyword>
+		  <keyword>Resource Planning Process (RPP): 2002-2003 Report</keyword>
+		  <keyword>Resource Planning Process (RPP): 2003-2004 Report</keyword>
+		  <keyword>Rideshare Program (Employee Alternate Transportation)</keyword>
+		  <keyword>Romance, German, Russian Languages &amp; Literatures</keyword>
+	</alphabet>
+	
+	<alphabet id = "s">
+		  <keyword>Safety &amp; Risk Management</keyword>
+		  <keyword>Safety, College of Natural Sciences and Mathematics</keyword>
+		  <keyword>Safety, Radiation</keyword>
+		  <keyword>Savings Plus (Tax-Deferred Programs)</keyword>
+		  <keyword>Schedule of Classes</keyword>
+		  <keyword>Scholarships (Division of Student Services)</keyword>
+		  <keyword>Scholarships, Grants, Loans, Student Employment</keyword>
+		  <keyword>Science Education</keyword>
+		  <keyword>Science Safety (College of Natural Science &amp; Mathematics)</keyword>
+		  <keyword>Security (Campus Police Department)</keyword>
+		  <keyword>Senior University (Osher Lifelong Learning Institute)</keyword>
+		  <keyword>Sexual Harassment Policies &amp; Complaints</keyword>
+		  <keyword>Single-Subject Teacher Education Program</keyword>
+		  <keyword>SOAR (Student Orientation Advising &amp; Registration)</keyword>
+		  <keyword>Social Work</keyword>
+		  <keyword>Sociology</keyword>
+		  <keyword>Software Training Services</keyword>
+		  <keyword>Sororities &amp; Fraternities</keyword>
+		  <keyword>Sports (Overview)</keyword>
+		  <keyword>Sports (longbeachstate.com web site)</keyword>
+		  <keyword>Sports, Recreational</keyword>
+		  <keyword>Spring Exams</keyword>
+		  <keyword>Staff Employee Relations</keyword>
+		  <keyword>Staff Handbook</keyword>
+		  <keyword>Staff Job Postings</keyword>
+		  <keyword>Staff Personnel Services</keyword>
+		  <keyword>Staff Personnel Services Procedures &amp; Forms</keyword>
+		  <keyword>Staff Training</keyword>
+		  <keyword>State Controller's Office - Employees</keyword>
+		  <keyword>Strategic Planning &amp; Enrollment</keyword>
+		  <keyword>Student Academic Records (SAR)</keyword>
+		  <keyword>Student Athlete Services</keyword>
+		  <keyword>Student Clubs &amp; Organizations</keyword>
+		  <keyword>Student Employment, Scholarships, Grants, Loans</keyword>
+		  <keyword>Student Health Services</keyword>
+		  <keyword>Student ID Cards</keyword>
+		  <keyword>Student Information: Just For Freshmen!</keyword>
+		  <keyword>Student Life &amp; Development</keyword>
+		  <keyword>Student Life Development</keyword>
+		  <keyword>Student Newspapers: The Daily 49er</keyword>
+		  <keyword>Student Newspapers: The Union</keyword>
+		  <keyword>Student Services</keyword>
+		  <keyword>Student Sports Organizations</keyword>
+		  <keyword>Student Support Services</keyword>
+		  <keyword>Student Teaching / Multiple Subject</keyword>
+		  <keyword>Student Union</keyword>
+		  <keyword>Students, Dean of</keyword>
+		  <keyword>Study Abroad </keyword>
+		  <keyword>Summer Bridge Program</keyword>
+		  <keyword>Summer Camps</keyword>
+		  <keyword>Support The Beach: Annual Fund / General Support</keyword>
+		  <keyword>Support The Beach: College of The Arts</keyword>
+		  <keyword>Support The Beach: College of Education</keyword>
+		  <keyword>Support The Beach: College of Engineering</keyword>
+		  <keyword>Support The Beach: College of Health &amp; Human Services</keyword>
+		  <keyword>Support The Beach: College of Liberal Arts</keyword>
+		  <keyword>Support The Beach: College of Natural Sciences &amp; Mathematics</keyword>
+		  <keyword>Support The Beach: Payroll Deduction Program</keyword>
+	</alphabet>
+	
+	<alphabet id = "t">
+	 	  <keyword>Tax-Deferred Programs</keyword>
+		  <keyword>Teacher Education</keyword>
+		  <keyword>Technical &amp; Professional Writing Program</keyword>
+		  <keyword>Technology Help Desk (THD)</keyword>
+		  <keyword>Technology Park</keyword>
+		  <keyword>Telecommunications</keyword>
+		  <keyword>Testing &amp; Evaluation Services</keyword>
+		  <keyword>The California State University System</keyword>
+		  <keyword>The Union (campus newspaper)</keyword>
+		  <keyword>Theatre Arts</keyword>
+		  <keyword>Tour the Campus (in person)</keyword>
+		  <keyword>Transcripts</keyword>
+		  <keyword>Transfer Students</keyword>
+		  <keyword>Tuition &amp; Fees</keyword> <keyword>Turnitin Support</keyword>
+	</alphabet>
+	
+	<alphabet id = "u">
+		  <keyword>UCES (University College &amp; Extension Services)</keyword>
+		  <keyword>UCES Winter Sessions</keyword>
+		  <keyword>Undergraduate Majors, Programs &amp; Certificates</keyword>
+		  <keyword>Union Newspaper</keyword>
+		  <keyword>University Art Museum (UAM)</keyword>
+		  <keyword>University Channel Television</keyword>
+		  <keyword>University College &amp; Extension Services (Distance Learning)</keyword>
+		  <keyword>University Honors Program</keyword>
+		  <keyword>University Library</keyword>
+		  <keyword>University Ombuds (dispute resolution)</keyword>
+		  <keyword>University Police Department</keyword>
+		  <keyword>University Print Shop</keyword>
+		  <keyword>University Relations &amp; Development</keyword>
+		  <keyword>University Research</keyword>
+		  <keyword>University Student Union</keyword>
+		  <keyword>Upward Bound</keyword>
+	</alphabet>
+	
+	<alphabet id = "v">
+		  <keyword>Vendor Information</keyword>
+		  <keyword>VOAHA (Oral History Archive)</keyword>
+		  <keyword>VRR / IVR (Registration)</keyword>
+	</alphabet>
+	
+	<alphabet id = "w">
+		  <keyword>WASC (Accreditation Self-Study)</keyword>
+		  <keyword>Web Accessibility Project (ADA / Section 508 Compliance)</keyword>
+		  <keyword>Web Development Center (Division of Administration &amp; Finance)</keyword>
+		  <keyword>Web Sites for Campus Organizations</keyword>
+		  <keyword>WebMail (browser-accessed campus e-mail)</keyword>
+		  <keyword>Wilderness Studies Program</keyword>
+		  <keyword>Women&acute;s Studies</keyword>
+		  <keyword>Women's Resource Center</keyword>
+		  <keyword>Writer's Resource Lab</keyword>
+	</alphabet>
+	
+	<alphabet id = "x">
+	</alphabet>
+	
+	<alphabet id = "y">
+		  <keyword>Youth Summer Camps</keyword>
+	</alphabet>
+	
+	<alphabet id = "z">
+	</alphabet>
+</suggestions>

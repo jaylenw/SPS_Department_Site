@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!-- InstanceBegin template="/org/college/sps/Templates/sps_ut_home.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- 
+(c) 2007 Copyright - All Rights Reserved - California State University, Long Beach.
+University Public Affairs & Publications office. For documentation and usage policy please visit www.csulb.edu/style/ 
+
+Updated and modified by: 	Phillip Nguyen, October 2008
+Usage and Intent: 			CSULB, Student Life Development
+							Student Organization Web Template
+-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Contact Us!</title>
+<!-- InstanceEndEditable -->
+<!--#include virtual="/org/college/sps/ADMIN/metatags.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/config.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/js/utjs.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/utcss.html" -->
+<link href="/org/college/sps/css/website.css" rel="stylesheet" type="text/css" />
+<!--#include virtual="/org/college/sps/ADMIN/localcss.html" -->
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<!-- InstanceBeginEditable name="head" --><script type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    // Added nm=nm.replace(/_/g, " "); on the next line to replace _ with a space in the error message, Pritesh Shah 03/26/2008
+	if (val) { nm=val.name; nm=nm.replace(/_/g, " "); if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script><!-- InstanceEndEditable -->
+<!-- InstanceParam name="body" type="text" value="contact" -->
+</head>
+<body class="contact">
+<!--#include virtual="/org/college/sps/ADMIN/csulbheader.html" -->
+<!--include virtual="/depot/ADMIN/ut_csulbaudience.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/primarynav.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/banner.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/ut_breadcrumbs.html" -->
+<div id="container">
+<div id="contain_content">
+  <a name="localnav" id="localnav"></a>
+  <div id="contain_column1">
+    <!--#include virtual="/org/college/sps/ADMIN/secondarynav.html" -->
+  </div>
+  <a name="content" id="content"></a>
+  <div id="contain_column2">
+  	<!-- InstanceBeginEditable name="Content_Column2" -->
+   <p><em class="requiredasterisk">*</em> <em class="required">Indicates required fields</em></p>
+    <form action="http://www.csulb.edu/cgi-bin/formmail.cgi" method="post" name="University_Template_Contact_Form" id="University_Template_Contact_Form" style="margin-bottom: 0pt;" onsubmit="MM_validateForm('First_Name','','R','Last_Name','','R','Email','','RisEmail','Comments','','R');return document.MM_returnValue">
+					<fieldset>
+					<legend>Contact The Web Development Team</legend>
+						<div class="bold">
+			
+							<p>
+							  <label for="First_Name">First Name <em class="requiredasterisk">*</em> <br />
+						<input id="First_Name" name="First_Name" value="" size="20" maxlength="50" type="text" /> 
+							</label></p> 
+
+			
+							<p>
+							  <label for="Last_Name">Last Name <em class="requiredasterisk">*</em> <br />
+						<input id="Last_Name" name="Last_Name" value="" size="20" maxlength="50" type="text" /> 
+							</label></p>
+			
+							<p><label for="Phone">Phone	<br />		
+						<input id="Phone" name="Phone" value="" size="20" maxlength="14" type="text" /> 
+							</label></p>
+
+			
+							<p>
+							  <label for="Email">E-Mail <em class="requiredasterisk">*</em> <br />
+						<input id="Email" name="Email" value="" size="20" maxlength="255" type="text" />
+							</label></p>
+			
+							<p>
+							  <label for="Comments">Comments: <em class="requiredasterisk">*</em> <br />
+						<textarea name="Comments" cols="20" rows="5" id="Comments"></textarea>
+							</label></p>
+			
+						<p>
+							<input class="submit" id="submit" value="Submit" type="submit" />
+						   <input class="submit" value="Clear Form" type="reset" />
+						</p>
+						  <input name="recipient" id="recipient" value="tdunlap.contact@gmail.com" type="hidden" />
+						  <input name="realname" id="realname" value="" type="hidden" />
+
+			
+						  <input name="redirect" id="redirect" value="http://www.csulb.edu/misc/ut/contact/thankyou.htm" type="hidden" />
+						  <input name="subject" id="subject" value="University Template Contact Form" type="hidden" />
+			
+						</div>
+
+		  </fieldset> 
+	  </form>
+		
+	  <!-- InstanceEndEditable -->
+  </div>
+  <div id="contain_column3">
+    <!-- InstanceBeginEditable name="Content_Column3" -->
+	<h1>Contact Us</h1>
+	<h4>CSULB Public Affairs &amp; Publications</h4>
+    <p>1250 Bellflower Boulevard, BH 276<br />Long Beach, California 90840</p>
+	<!-- InstanceEndEditable -->
+  </div>
+  <div class="clear_float"></div>
+</div>
+</div>
+<!--#include virtual="/org/college/sps/ADMIN/footer.html" -->
+</body>
+<!-- InstanceEnd --></html>
