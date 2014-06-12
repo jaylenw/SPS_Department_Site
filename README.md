@@ -15,4 +15,4 @@ Guidelines
 
 3. This code is responsible for this site here http://www.csulb.edu/depts/physics/sps/ .
 
-4. Off campus website is csulbsps.org
+4. Off campus website is http://csulbsps.org
