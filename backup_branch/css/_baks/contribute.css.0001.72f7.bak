@@ -1,0 +1,240 @@
+/********************************************************************************
+ *	Filename: contribute.css													*
+ *	Purpose: For Contribute users												*
+ *	Created by: University Public Affairs & Publications						*
+ *	Modified by: Jorge L. Hurtado, Frederick Camba, Pritesh Shah				*
+ *	Last Modified: 05-31-2007													*
+ ********************************************************************************/
+
+h1 
+{
+	font-size:1.5em; 
+	line-height:1em;
+	font-weight:bold;
+	margin-bottom:.75em; 
+	border-left:15px solid #ffc600;
+	padding-left:8px;
+}
+
+h2 
+{
+	font-size:1.4em;
+	line-height:1em;
+	font-weight:bold;
+	margin-bottom:.75em;
+}
+
+h3
+{
+	font-size:1.2em;
+	font-weight:bold;
+	margin-bottom:.75em;
+}
+
+h4 
+{
+	font-size:1.1em;
+	font-weight:bold;
+	margin-bottom:.75em;
+}
+
+h5 
+{
+	font-size:1em;
+	font-weight:bold;
+	margin-bottom:.75em;
+}
+
+h6 
+{
+	font-size:1em;
+	font-weight:bold;
+	margin-bottom:.75em;
+	padding-bottom:.5em;
+	border-bottom:4px solid #444;
+}
+
+.dropcap 
+{ 
+	float:left; 
+	color: #444; 
+	margin:0 6px 0 0;
+    font-size:6em;
+	font-weight:bold;
+    line-height:.9em;
+
+}
+.caption 
+{
+	color:#222;
+	font-size:.9em;
+	margin-bottom:1em;
+	font-style:normal;
+}
+
+.quote-left
+{
+	color:#444;
+	font-size:1em;
+	font-weight:bold;
+	margin-right:1em;
+	padding-top:1em;
+	width:10em;
+	float:left;
+	border-top:4px solid #ccc;
+	border-bottom:4px solid #ccc;
+}
+
+.quote-right
+{
+	color:#444;
+	font-size:1em;
+	font-weight:bold;
+	margin-left:1em;
+	padding-top:1em;
+	width:10em;
+	float:right;
+	border-top:4px solid #ccc;
+	border-bottom:4px solid #ccc;
+}
+.footnote 
+{
+	font-size:.9em;
+	color:#222;
+	font-style:italic;
+	margin-bottom:1em;
+	margin:0 5em 1em 0;
+}
+.note 
+{
+	font-weight:normal;
+	color:#222;
+	font-weight:bold;
+	margin-bottom:1em;
+}
+.byline 
+{
+	text-indent:.5em;
+	font-weight:bold;
+	margin-bottom:1em;
+	font-size:.9em;
+	border-left:10px solid #ddd;
+}
+
+.layoutdivider 
+{
+	border-top:1px solid #eee;
+	margin:1em 0 1em 0;
+}
+
+.blackbox 
+{
+	text-indent:0;
+	font-weight:normal;
+	color:#eee;
+	background-color:#000;
+	padding:1em;
+	margin-bottom:1em;
+	border-top:10px solid #444;
+	overflow:hidden;
+}
+.darkgraybox 
+{
+	text-indent:0;
+	font-weight:normal;
+	color:#eee;
+	background-color:#333;
+	padding:1em;
+	margin-bottom:1em;
+	border-top:10px solid #000;
+	overflow:hidden;
+}
+
+.graybox
+{
+	text-indent:0;
+	font-weight:normal;
+	background-color:#eee;
+	padding:1em;
+	margin-bottom:1em;
+	border-top:10px solid #ccc;
+	overflow:hidden;
+}
+
+.whitebox
+{
+	text-indent:0;
+	font-weight:normal;
+	background-color:#fff;
+	padding:1em;
+	margin-bottom:1em;
+	border-top:10px solid #eee;
+	border-left:1px solid #eee;
+	border-right:1px solid #eee;
+	border-bottom:1px solid #eee;
+	overflow:hidden;
+}
+
+.goldbox
+{
+	background-image: url(/misc/depot/assets/UT/bk_gold_gradient.gif);
+	background-repeat: repeat-x;
+	text-indent:0;
+	font-weight:normal;
+	background-color:#ffc600;
+	padding:1em;
+	margin-bottom:1em;
+	border-left:1px solid #ffc600;
+	border-right:1px solid #ffc600;
+	border-bottom:1px solid #ffc600;
+	border-top:10px solid #000;
+	overflow:hidden;
+}
+
+.gradientbox
+{
+	background-image: url(/misc/depot/assets/UT/bk_lightgray_gradient.gif);
+	background-repeat: repeat-x;
+	text-indent:0;
+	font-weight:normal;
+	background-color:#fff;
+	padding:1em;
+	margin-bottom:1em;
+	border-left:1px solid #eee;
+	border-right:1px solid #eee;
+	border-bottom:1px solid #eee;
+	border-top:10px solid #eee;
+	overflow:hidden;
+} 
+.datestamp
+{
+	border-top:1px solid #eee;
+	padding:0;
+	margin:0;
+	font-size:.8em;
+	text-align:right;
+	color:#222;
+}
+
+dfn 
+{
+	font-weight:bold;
+}
+
+cite 
+{
+	text-transform:capitalize;
+}
+
+kbd
+{
+	font-weight:bold;
+	background-color:#eee;
+	padding:0 3px 0 3px;
+}
+
+pre 
+{
+	font-size:1.1em;
+	margin-bottom:1em;
+}

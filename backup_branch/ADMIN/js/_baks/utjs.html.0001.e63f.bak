@@ -1,0 +1,17 @@
+
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/dt-styleswitcher.js"></script>
+<!--<script language="JavaScript" type="text/javascript" src="/misc/depot/js/dynmenu.js"></script>-->
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/BreadCrumbs.js "></script>
+<script type="text/javascript">
+function load_this(){
+insertSearchBox();
+// Make search enabled by default
+if(typeof suggest_in_search == 'undefined' || suggest_in_search == true){
+	InstallAC(document.getElementById("searchbox"),document.getElementById("SiteSearch"),document.getElementById("btnG"),"search","en");
+	}
+}
+</script>
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/insearch_suggest.js"></script>
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/final_ac.js"></script>
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/ut_menu.js"></script>
+<script type="text/javascript" src="/org/college/sps/ADMIN/js/swfobject.js"></script>

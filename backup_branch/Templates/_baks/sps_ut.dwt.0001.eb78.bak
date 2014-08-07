@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<!-- 
+(c) 2007 Copyright - All Rights Reserved - California State University, Long Beach.
+University Public Affairs & Publications office. For documentation and usage policy please visit www.csulb.edu/style/ 
+
+Updated and modified by: 	Phillip Nguyen, October 2008
+Usage and Intent: 			CSULB, Student Life Development
+							Student Organization Web Template
+-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>UT</title>
+<!-- TemplateEndEditable -->
+<!--#include virtual="/org/college/sps/ADMIN/metatags.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/config.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/js/utjs.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/utcss.html" -->
+<link href="/org/college/sps/css/website.css" rel="stylesheet" type="text/css" />
+<!--#include virtual="/org/college/sps/ADMIN/localcss.html" -->
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<!-- TemplateParam name="body" type="text" value="" -->
+</head>
+<body class="@@(body)@@">
+<!--#include virtual="/org/college/sps/ADMIN/csulbheader.html" -->
+<!--include virtual="/depot/ADMIN/ut_csulbaudience.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/primarynav.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/banner_secondary.html" -->
+<!--#include virtual="/org/college/sps/ADMIN/ut_breadcrumbs.html" -->
+<div id="container">
+<div id="contain_content">
+  <a name="localnav" id="localnav"></a>
+  <div id="contain_column1">
+    <!--#include virtual="/org/college/sps/ADMIN/secondarynav.html" -->
+  </div>
+  <a name="content" id="content"></a>
+  <div id="contain_column2">
+  	<!-- TemplateBeginEditable name="Content_Column2" --><!-- TemplateEndEditable -->
+  </div>
+  <div id="contain_column3">
+    <!-- TemplateBeginEditable name="Content_Column3" --><!-- TemplateEndEditable -->
+  </div>
+  <div class="clear_float"></div>
+</div>
+</div>
+<!--#include virtual="/org/college/sps/ADMIN/footer.html" -->
+</body>
+</html>

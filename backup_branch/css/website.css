@@ -1,0 +1,81 @@
+@import url("/depts/physics/sps/css/contribute.css");
+/********************************************************************************
+ *	Filename: website.css														*
+ *	Purpose: Affects the entire website											*
+ *	Created by: CSULB Webteam													*
+ *	Modified by: Jorge L. Hurtado, Frederick Camba, Pritesh Shah 				*
+ *	Last Modified: 05-11-2007													*
+ ********************************************************************************/
+
+/********************************************************************
+				SITEWIDE CONTROLS
+*********************************************************************/
+#contain_audiencenav 
+{
+	display:none;
+}
+#contain_divisionnav 
+{
+	display:block;
+}
+#contain_banner 
+{
+	display:none;
+						/* Comment or un-comment the following lines appropriately. 
+						   The repeating background side-image is 18x300 pixels. */
+	/*background-image: url(/org/templates/generic2008/assets/banners/banner_bk_grey.gif);*/
+	background-image: url(/org/templates/generic2008/assets/UT/banner_bk_plain.gif);
+}
+#contain_banner_secondary
+{
+	display:block;
+	background-color:#000;		
+	/*display:none;*/	/* Un-comment this line to not use the main 
+						   banner in every page except the home page*/
+						   
+						/* Comment or un-comment the following lines appropriately. 
+						   The repeating background side-image is 18x300 pixels. */
+	/*background-image: url(/org/templates/generic2008/assets/UT/banner_bk_grey.gif);*/
+	/*background-image: url(/org/templates/generic2008/assets/banners/banner_bk_plain.gif);
+*/
+}
+
+
+/********************************************************************
+				YOU ARE HERE NAVIGATION
+*********************************************************************/
+
+body.home #contain_column1 li.home a,
+body.contact #contain_column1 li.contact a,
+body.about #contain_column1 li.about a,
+body.equalcolumns #contain_column1 li.equalcolumns a,
+body.equalcolumns2 #contain_column1 li.equalcolumns2 a,
+body.news #contain_column1 li.news a,
+body.variations #contain_column1 li.variations a,
+body.baseline #contain_column1 li.baseline a,
+body.color #contain_column1 li.color a,
+body.tcolumn #contain_column1 li.tcolumn a, 
+body.calendar_page #contain_column1 li.calendar_page a, 
+body.schedule #contain_column1 li.schedule a,  
+body.onecolnav #contain_column1 li.onecolnav a,  
+body.docs #contain_column1 li.docs a, 
+body.grid #contain_column1 li.grid a,
+body.tcolumnnav #contain_column1 li.tcolumnnav a,
+body.forms #contain_column1 li.forms a,
+body.default #contain_column1 li.default a,
+body.officers #contain_column1 li.officers a,
+body.gallery01 #contain_column1 li.gallery01 a,
+body.calendar_page #contain_column1 li.calendar_page a,
+body.links #contain_column1 li.links a
+
+{
+	background-color: #ddd;
+	color: #333;
+	cursor: default;
+	font-weight: bold;
+}
+
+tr.grayrow 
+{
+	background-color: #eee;
+}

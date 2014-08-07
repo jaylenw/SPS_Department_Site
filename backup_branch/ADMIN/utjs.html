@@ -1,0 +1,19 @@
+<script type="text/javascript" >
+
+var suggest_in_search = true;
+var xmlpath = 'http://www.csulb.edu/depot/xml/keywords.xml';
+</script>
+
+
+<script type="text/javascript" src="http://www.csulb.edu/js/BreadCrumbs.js"></script>
+<script type="text/javascript">
+function load_this(){
+insertSearchBox();
+// Make search enabled by default
+if(typeof suggest_in_search == 'undefined' || suggest_in_search == true){
+	InstallAC(document.getElementById("searchbox"),document.getElementById("SiteSearch"),document.getElementById("btnG"),"search","en");
+	}
+}
+</script>
+
+<script type="text/javascript" src="http://www.csulb.edu/depot/js/ut_menu.js"></script>
