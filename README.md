@@ -1,18 +1,17 @@
-Copy of the static California State University Long Beach
-==============================================================================================
-
-Society of Physics Students website
------------------------------------
+#Copy of the static California State University Long Beach
 
 
-Guidelines
-----------
+##Society of Physics Students website
 
 
-1.  Don't change anything dealing with themes.  We must follow the school guidelines.
 
-2.  Primarly just updating the information.
+### Guidelines
 
-3.  This code is responsible for this site here http://www.csulb.edu/depts/physics/sps/ .
 
-4.  Off campus website is http://csulbsps.org
+1.  Don't change anything dealing with themes.  We must follow the school guidelines.  
+
+2.  Primarly just updating the information.  
+
+3.  This code is responsible for this site here http://www.csulb.edu/depts/physics/sps/ .  
+
+4.  Off campus website is http://csulbsps.org  
