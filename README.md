@@ -9,10 +9,10 @@ Guidelines
 ----------
 
 
-1. Don't change anything dealing with themes.  We must follow the school guidelines.
+1.  Don't change anything dealing with themes.  We must follow the school guidelines.
 
-2. Primarly just updating the information.
+2.  Primarly just updating the information.
 
-3. This code is responsible for this site here http://www.csulb.edu/depts/physics/sps/ .
+3.  This code is responsible for this site here http://www.csulb.edu/depts/physics/sps/ .
 
-4. Off campus website is http://csulbsps.org
+4.  Off campus website is http://csulbsps.org
