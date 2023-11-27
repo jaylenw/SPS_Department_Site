@@ -1,9 +1,8 @@
-#Copy of the static California State University Long Beach
+# Copy of the static California State University Long Beach
 
+Archived 2023/11/2023
 
-##Society of Physics Students website
-
-
+## Society of Physics Students website
 
 ### Guidelines
 
